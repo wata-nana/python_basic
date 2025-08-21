@@ -1,8 +1,4 @@
-bob_info = {
-    "first_name": "Bob",
-    "family_name": "Dylan",
-    "age": 79
-}
+bob_info = {"first_name": "Bob", "family_name": "Dylan", "age": 79}
 
 # 出力確認用
 print(bob_info["first_name"])  # "Bob"
